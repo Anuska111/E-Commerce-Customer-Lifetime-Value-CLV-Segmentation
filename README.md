@@ -103,26 +103,7 @@ Model Evaluation
 Business Insights
 ```
 <h2 align="center">📷 Project Screenshots</h2>
-
-<table align="center">
- <tr>
-  <td><img src="<img width="1013" height="740" alt="image" src="https://github.com/user-attachments/assets/fa9e696e-af5a-4a52-ac69-94228e6892b3" />
-" width="250"></td>
-  <td></td><img src="<img width="1040" height="873" alt="image" src="https://github.com/user-attachments/assets/09890203-9f23-4faf-b9c9-c05cbe470f70" />
-" width="250"></td>
-  <td></td><img src="<img width="1028" height="760" alt="image" src="https://github.com/user-attachments/assets/cbb8857c-f6f6-4f96-993f-014796993c4b" />
-" width="250"></td>
-</tr>
-<tr>
-  <td></td><img src="<img width="987" height="737" alt="image" src="https://github.com/user-attachments/assets/208d1840-c379-4382-b381-a78f48082583" />
-" width="250"></td>
-  <td><img src="<img width="1008" height="697" alt="image" src="https://github.com/user-attachments/assets/ceaca8f4-8c57-40c7-8998-a1f8a6fc9252" />
-" width="250"></td>
-  <td></td><img src="<img width="1009" height="608" alt="image" src="https://github.com/user-attachments/assets/26b43419-82f9-48f5-9d24-6bdd38636525" />
-" width="250"></td>
-</tr>
-</table>
-
+!Images<img width="1013" height="740" alt="image" src="https://github.com/user-attachments/assets/babe1c1d-be9b-4050-a582-413971354cab" /><img width="1040" height="873" alt="image" src="https://github.com/user-attachments/assets/d0aa6018-c822-4d8e-a432-55063c9157b8" /><img width="1028" height="760" alt="image" src="https://github.com/user-attachments/assets/33814f06-ab9b-4684-8ffe-e959f35937e5" /><img width="987" height="737" alt="image" src="https://github.com/user-attachments/assets/914c2e10-78fe-4775-b40f-650527733712" /><img width="1008" height="697" alt="image" src="https://github.com/user-attachments/assets/f83a2faa-42ec-4ad3-87ca-618031814e13" /><img width="1009" height="608" alt="image" src="https://github.com/user-attachments/assets/e31bd288-314e-42ca-9158-ca470b433d45" />
 ---
 
 # 📊 Exploratory Data Analysis (EDA)
