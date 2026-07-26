@@ -102,10 +102,25 @@ Model Evaluation
       ▼
 Business Insights
 ```
-![*]Images/<img width="1009" height="608" alt="image" src="https://github.com/user-attachments/assets/894afa7a-7ba0-4d29-9747-ab4f6815945c" /><img width="1008" height="697" alt="image" src="https://github.com/user-attachments/assets/fb6317aa-ba82-41d6-b0e9-8ad08e873856" /><img width="987" height="737" alt="image" src="https://github.com/user-attachments/assets/22990ec6-88d5-43cc-9d64-bb69c1c6f73e" /><img width="1028" height="760" alt="image" src="https://github.com/user-attachments/assets/52e1a211-e28a-4ed4-bb36-6fe85d75ffda" />
+## 📷 Project Screenshots
 
+<p align="center">
+  <img src="<img width="1013" height="740" alt="image" src="https://github.com/user-attachments/assets/fa9e696e-af5a-4a52-ac69-94228e6892b3" />
+" width="30%">
+  <img src="<img width="1040" height="873" alt="image" src="https://github.com/user-attachments/assets/09890203-9f23-4faf-b9c9-c05cbe470f70" />
+" width="30%">
+  <img src="<img width="1028" height="760" alt="image" src="https://github.com/user-attachments/assets/cbb8857c-f6f6-4f96-993f-014796993c4b" />
+" width="30%">
+</p>
 
-
+<p align="center">
+  <img src="<img width="987" height="737" alt="image" src="https://github.com/user-attachments/assets/208d1840-c379-4382-b381-a78f48082583" />
+" width="30%">
+  <img src="<img width="1008" height="697" alt="image" src="https://github.com/user-attachments/assets/ceaca8f4-8c57-40c7-8998-a1f8a6fc9252" />
+" width="30%">
+  <img src="<img width="1009" height="608" alt="image" src="https://github.com/user-attachments/assets/26b43419-82f9-48f5-9d24-6bdd38636525" />
+" width="30%">
+</p>
 
 ---
 
