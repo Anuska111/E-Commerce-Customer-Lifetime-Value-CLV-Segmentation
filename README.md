@@ -33,19 +33,16 @@ This project develops a complete Machine Learning pipeline that:
 
 # 🛠 Tech Stack
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- K-Means Clustering
-- Random Forest Regressor
-- Jupyter Notebook
-- RFM Analysis
-- Customer Lifetime Value (CLV) Engineering
-- Model Evaluation(RMSE,R² Score,MAPE,Cross Validation)
-- GitHub
+| Category | Technologies |
+|----------|--------------|
+| Programming Language | Python |
+| Data Analysis | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn |
+| Machine Learning | Scikit-Learn |
+| Algorithms | K-Means Clustering, Random Forest Regressor |
+| Feature Engineering | RFM Analysis, Log Transformation, CLV Engineering |
+| Model Evaluation | RMSE, R² Score, MAPE, Cross Validation |
+| Development Tools | Jupyter Notebook, Git, GitHub |
 
 ---
 
