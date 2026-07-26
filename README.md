@@ -42,6 +42,10 @@ This project develops a complete Machine Learning pipeline that:
 - K-Means Clustering
 - Random Forest Regressor
 - Jupyter Notebook
+- RFM Analysis
+- Customer Lifetime Value (CLV) Engineering
+- Model Evaluation(RMSE,R² Score,MAPE,Cross Validation)
+- GitHub
 
 ---
 
