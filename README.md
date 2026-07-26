@@ -107,19 +107,19 @@ Business Insights
 <table align="center">
  <tr>
   <td><img src="<img width="1013" height="740" alt="image" src="https://github.com/user-attachments/assets/fa9e696e-af5a-4a52-ac69-94228e6892b3" />
-" width="300"></td>
+" width="250"></td>
   <td></td><img src="<img width="1040" height="873" alt="image" src="https://github.com/user-attachments/assets/09890203-9f23-4faf-b9c9-c05cbe470f70" />
-" width="300"></td>
+" width="250"></td>
   <td></td><img src="<img width="1028" height="760" alt="image" src="https://github.com/user-attachments/assets/cbb8857c-f6f6-4f96-993f-014796993c4b" />
-" width="300"></td>
+" width="250"></td>
 </tr>
 <tr>
   <td></td><img src="<img width="987" height="737" alt="image" src="https://github.com/user-attachments/assets/208d1840-c379-4382-b381-a78f48082583" />
-" width="300"></td>
+" width="250"></td>
   <td><img src="<img width="1008" height="697" alt="image" src="https://github.com/user-attachments/assets/ceaca8f4-8c57-40c7-8998-a1f8a6fc9252" />
-" width="300"></td>
+" width="250"></td>
   <td></td><img src="<img width="1009" height="608" alt="image" src="https://github.com/user-attachments/assets/26b43419-82f9-48f5-9d24-6bdd38636525" />
-" width="300"></td>
+" width="250"></td>
 </tr>
 </table>
 
