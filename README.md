@@ -4,7 +4,7 @@
 > An end-to-end Machine Learning project that predicts Customer Lifetime Value (CLV) and segments customers using RFM Analysis, K-Means Clustering, and Random Forest Regression to help businesses improve customer retention and maximize revenue.
 
 ---
-![Heatmap](images/<img width="1080" height="776" alt="image" src="https://github.com/user-attachments/assets/b425af88-39c6-4384-a4f8-690f0441bf07" />)
+![Heatmap](<img width="1080" height="776" alt="image" src="https://github.com/user-attachments/assets/b425af88-39c6-4384-a4f8-690f0441bf07" />)
 
 # 🚀 Project Overview
 
