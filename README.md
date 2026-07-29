@@ -176,9 +176,9 @@ Random Forest Regressor
 
 | Metric | Score |
 |---------|-------|
-| R² Score | **0.9541** |
-| RMSE | **36.58** |
-| MAPE | **7.93%** |
+| R² Score | **0.973** |
+| RMSE | **24.590** |
+| MAPE | **7.448%** |
 
 ---
 
@@ -188,7 +188,7 @@ Random Forest Regressor
 
 | Metric | Value |
 |---------|-------|
-| Average Cross Validation RMSE | **35.01** |
+| Average Cross Validation RMSE | **27.748** |
 
 The close agreement between Cross Validation RMSE and Test RMSE indicates that the model generalizes well and is not significantly overfitting.
 
@@ -320,10 +320,10 @@ This project enables businesses to:
 - Customer Segmentation using K-Means Clustering
 - Customer Lifetime Value Prediction
 - Random Forest Regression Model
-- **R² Score: 95.41%**
-- **MAPE: 7.93%**
-- **RMSE: 36.58**
-- **5-Fold Cross Validation RMSE: 35.01**
+- **R² Score: 97.31%**
+- **MAPE: 7.45%**
+- **RMSE: 24.59**
+- **5-Fold Cross Validation RMSE: 27.75**
 - Actionable Business Recommendations
 
 ---
