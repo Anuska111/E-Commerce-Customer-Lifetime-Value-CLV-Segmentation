@@ -4,7 +4,8 @@
 > An end-to-end Machine Learning project that predicts Customer Lifetime Value (CLV) and segments customers using RFM Analysis, K-Means Clustering, and Random Forest Regression to help businesses improve customer retention and maximize revenue.
 
 ---
-<img width="1080" height="776" alt="image" src="https://github.com/user-attachments/assets/b425af88-39c6-4384-a4f8-690f0441bf07" />
+<img width="1075" height="791" alt="image" src="https://github.com/user-attachments/assets/c4d39078-7fc0-4e2d-9632-e3797c5e0c6a" />
+
 
 # 🚀 Project Overview
 
@@ -103,7 +104,7 @@ Model Evaluation
 Business Insights
 ```
 <h2 align="center">📷 Project Screenshots</h2>
-<img width="1013" height="740" alt="image" src="https://github.com/user-attachments/assets/babe1c1d-be9b-4050-a582-413971354cab" /><img width="1040" height="873" alt="image" src="https://github.com/user-attachments/assets/d0aa6018-c822-4d8e-a432-55063c9157b8" /><img width="1028" height="760" alt="image" src="https://github.com/user-attachments/assets/33814f06-ab9b-4684-8ffe-e959f35937e5" /><img width="987" height="737" alt="image" src="https://github.com/user-attachments/assets/914c2e10-78fe-4775-b40f-650527733712" /><img width="1008" height="697" alt="image" src="https://github.com/user-attachments/assets/f83a2faa-42ec-4ad3-87ca-618031814e13" /><img width="1009" height="608" alt="image" src="https://github.com/user-attachments/assets/e31bd288-314e-42ca-9158-ca470b433d45" />
+<img width="1080" height="971" alt="image" src="https://github.com/user-attachments/assets/31d172ff-a11d-4404-b92d-dab57f37fe4f" /><img width="1070" height="629" alt="image" src="https://github.com/user-attachments/assets/d672e74f-de2d-4b80-b2a2-da28d15a2003" /><img width="1071" height="737" alt="image" src="https://github.com/user-attachments/assets/ee0e3d9a-4fad-47d3-9f0b-0c7edb930147" /><img width="1075" height="727" alt="image" src="https://github.com/user-attachments/assets/e3c3070f-376e-4229-83fe-f57976d167e1" /><img width="1080" height="758" alt="image" src="https://github.com/user-attachments/assets/e53aec93-23c2-494e-8b7e-b0b96e6994f3" />
 ---
 
 # 📊 Exploratory Data Analysis (EDA)
