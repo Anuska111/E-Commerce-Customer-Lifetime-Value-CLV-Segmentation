@@ -206,6 +206,11 @@ The project includes:
 - Actual vs Predicted CLV Plot
 - Residual Plot
 
+## 🚀 Live Demo
+
+👉 **Try the live Streamlit application here:**
+
+**https://e-commerce-customer-lifetime-value-clv-segmentation-mzpwvzvybp.streamlit.app/**
 ---
 
 # 🔍 Feature Importance
